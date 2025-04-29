@@ -1,0 +1,10 @@
+jupyter
+notebook
+langchain-google-genai
+langchain-core
+pydantic
+google-genai
+google-generativeai
+typing-extensions
+langgraph
+grandalf
