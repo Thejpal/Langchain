@@ -1,7 +1,7 @@
 # Langchain
 
-* [Setup](/#Setup)
-* [Files](/#Files)
+* [Setup](#Setup)
+* [Files](#Files)
 
 ## Setup
 Clone the repository
