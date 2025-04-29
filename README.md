@@ -18,11 +18,12 @@ GOOGLE_GEMINI_API_KEY="<your-api-key>"
 ```
 
 ## **Files**
-|File|Description|
+|**File**|**Description**|
 |--- |--- |
-|[basics.ipynb](/basics.ipynb)|LLM basics|
-|[google_models.ipynb](/google_models.ipynb)|Invoking Google models with a variety of libraries and exploring their response objects|
-|[google_thinking_model.ipynb](/google_thinking_model.ipynb)|Exploring Google thingking models|
-|[langgraph_practice.ipynb](langgraph_practice.ipynb)|Exploring Langgraph nodes, edges and state management|
-|[langgraph_memory.ipynb](langgraph_memory.ipynb)|Exploring memory management for the graphs in Langgraph|
-|[interrupt_test.ipynb](/interrupt_test.ipynb)|Exploring human in the loop workflow for Langgraph|
+|[basics.ipynb](/basics.ipynb)|*LLM basics*|
+|[google_models.ipynb](/google_models.ipynb)|*Invoking Google models with a variety of libraries and exploring their response objects*|
+|[google_thinking_model.ipynb](/google_thinking_model.ipynb)|*Exploring Google thingking models*|
+|[langgraph_practice.ipynb](langgraph_practice.ipynb)|*Exploring Langgraph nodes, edges and state management*|
+|[langgraph_memory.ipynb](langgraph_memory.ipynb)|*Exploring memory management for the graphs in Langgraph*|
+|[interrupt_test.ipynb](/interrupt_test.ipynb)|*Exploring human in the loop workflow for Langgraph*|
+|[requirements.txt](/requirements.txt)|*Packages to be installed to run the files*|
