@@ -1,5 +1,7 @@
-# **Langchain**
+# **Models and frameworks exploration**
+This repository contains experiments on how to invoke and work with Google models along with the exploration of Langgraph; a multi-agent framework, by understanding it's concepts and exploring it's capabilities.
 
+## **Index**
 * [Setup](#Setup)
 * [Files](#Files)
 
