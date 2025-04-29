@@ -1,9 +1,9 @@
-# Langchain
+# **Langchain**
 
 * [Setup](#Setup)
 * [Files](#Files)
 
-## Setup
+## **Setup**
 Clone the repository
 ```python
 git clone https://github.com/Thejpal/Langchain.git
@@ -12,12 +12,12 @@ Install the requirements to run the files
 ```python
 pip install -r requirements.txt
 ```
-Set the following environmental variables in .env file
+Set the following environmental variables in .env file (Requirement to run the first three files)
 ```python
 GOOGLE_GEMINI_API_KEY="<your-api-key>"
 ```
 
-## Files
+## **Files**
 |File|Description|
 |--- |--- |
 |[basics.ipynb](/basics.ipynb)|LLM basics|
